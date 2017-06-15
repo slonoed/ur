@@ -1,0 +1,16 @@
+{
+  "name": "ur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "test-w": "./node_modules/.bin/mocha -w"
+  },
+  "author": "slonoed",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
